@@ -1,0 +1,1 @@
+FROM angular/cli:latest

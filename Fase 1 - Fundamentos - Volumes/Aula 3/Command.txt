@@ -1,0 +1,3 @@
+docker run -it -v volume_aula3:/home volume_aula3
+
+docker run --name ngninx_aula3 -v volume_aula3:/usr/share/nginx/html -it -p 8084:80 nginx

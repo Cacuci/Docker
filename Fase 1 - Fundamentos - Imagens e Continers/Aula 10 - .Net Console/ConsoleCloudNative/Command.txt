@@ -1,0 +1,5 @@
+--Criar imagem
+docker build . -f .\ConsoleCloudNative\Dockerfile -t consolecloudnative:lasted
+
+--Criar container utilizando variaveis de ambiente
+docker run --rm -e user=app_rafael -e password=senha_rafael consolecloudnative:lasted

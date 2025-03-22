@@ -1,0 +1,5 @@
+services:
+  app:
+    image: variaveis_aula2:latest    
+    environment:
+      - prefix=stage

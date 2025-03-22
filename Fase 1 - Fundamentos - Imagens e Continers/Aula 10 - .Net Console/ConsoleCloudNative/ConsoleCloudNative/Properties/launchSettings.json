@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleCloudNative": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

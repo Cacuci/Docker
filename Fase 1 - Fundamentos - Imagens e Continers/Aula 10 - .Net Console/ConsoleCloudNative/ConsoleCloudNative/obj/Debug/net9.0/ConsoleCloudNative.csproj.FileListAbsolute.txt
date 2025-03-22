@@ -1,0 +1,14 @@
+C:\_DEV\Fase 1 - Fundamentos - Imagens e Continers\Aula 10 - .Net Console\ConsoleCloudNative\ConsoleCloudNative\bin\Debug\net9.0\ConsoleCloudNative.exe
+C:\_DEV\Fase 1 - Fundamentos - Imagens e Continers\Aula 10 - .Net Console\ConsoleCloudNative\ConsoleCloudNative\bin\Debug\net9.0\ConsoleCloudNative.deps.json
+C:\_DEV\Fase 1 - Fundamentos - Imagens e Continers\Aula 10 - .Net Console\ConsoleCloudNative\ConsoleCloudNative\bin\Debug\net9.0\ConsoleCloudNative.runtimeconfig.json
+C:\_DEV\Fase 1 - Fundamentos - Imagens e Continers\Aula 10 - .Net Console\ConsoleCloudNative\ConsoleCloudNative\bin\Debug\net9.0\ConsoleCloudNative.dll
+C:\_DEV\Fase 1 - Fundamentos - Imagens e Continers\Aula 10 - .Net Console\ConsoleCloudNative\ConsoleCloudNative\bin\Debug\net9.0\ConsoleCloudNative.pdb
+C:\_DEV\Fase 1 - Fundamentos - Imagens e Continers\Aula 10 - .Net Console\ConsoleCloudNative\ConsoleCloudNative\obj\Debug\net9.0\ConsoleCloudNative.GeneratedMSBuildEditorConfig.editorconfig
+C:\_DEV\Fase 1 - Fundamentos - Imagens e Continers\Aula 10 - .Net Console\ConsoleCloudNative\ConsoleCloudNative\obj\Debug\net9.0\ConsoleCloudNative.AssemblyInfoInputs.cache
+C:\_DEV\Fase 1 - Fundamentos - Imagens e Continers\Aula 10 - .Net Console\ConsoleCloudNative\ConsoleCloudNative\obj\Debug\net9.0\ConsoleCloudNative.AssemblyInfo.cs
+C:\_DEV\Fase 1 - Fundamentos - Imagens e Continers\Aula 10 - .Net Console\ConsoleCloudNative\ConsoleCloudNative\obj\Debug\net9.0\ConsoleCloudNative.csproj.CoreCompileInputs.cache
+C:\_DEV\Fase 1 - Fundamentos - Imagens e Continers\Aula 10 - .Net Console\ConsoleCloudNative\ConsoleCloudNative\obj\Debug\net9.0\ConsoleCloudNative.dll
+C:\_DEV\Fase 1 - Fundamentos - Imagens e Continers\Aula 10 - .Net Console\ConsoleCloudNative\ConsoleCloudNative\obj\Debug\net9.0\refint\ConsoleCloudNative.dll
+C:\_DEV\Fase 1 - Fundamentos - Imagens e Continers\Aula 10 - .Net Console\ConsoleCloudNative\ConsoleCloudNative\obj\Debug\net9.0\ConsoleCloudNative.pdb
+C:\_DEV\Fase 1 - Fundamentos - Imagens e Continers\Aula 10 - .Net Console\ConsoleCloudNative\ConsoleCloudNative\obj\Debug\net9.0\ConsoleCloudNative.genruntimeconfig.cache
+C:\_DEV\Fase 1 - Fundamentos - Imagens e Continers\Aula 10 - .Net Console\ConsoleCloudNative\ConsoleCloudNative\obj\Debug\net9.0\ref\ConsoleCloudNative.dll

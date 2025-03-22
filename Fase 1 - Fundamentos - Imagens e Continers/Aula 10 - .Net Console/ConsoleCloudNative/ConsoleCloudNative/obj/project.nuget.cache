@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s0NyoQa8yGk=",
+  "success": true,
+  "projectFilePath": "C:\\_DEV\\Fase 1 - Fundamentos - Imagens e Continers\\Aula 10 - .Net Console\\ConsoleCloudNative\\ConsoleCloudNative\\ConsoleCloudNative.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

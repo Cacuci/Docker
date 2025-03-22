@@ -1,0 +1,1 @@
+docker run --name ngnix_google -v "C:\_DEV\Fase 1 - Fundamentos - Volumes\Aula 2":/home -it -p 8083:80 nginx

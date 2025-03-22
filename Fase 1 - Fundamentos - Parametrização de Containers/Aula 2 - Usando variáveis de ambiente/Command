@@ -1,0 +1,11 @@
+// Comando para criar a imagem e rodar o container com variável de ambiente
+docker build . -t variaveis_aula2
+
+// Comando para rodar o container com variável de ambiente
+docker run -e prefix=prd variaveis_aula2
+
+// Comando para validar as configurações do docker-compose
+docker-compose config
+
+// Comando para executar o docker-compose
+docker compose up -d
