@@ -1,0 +1,20 @@
+version: '3.1'
+
+services:
+  app:
+    # image: mysql:9.2.0 # Use the MySQL 9.2.0 image
+    image: mariadb # Use the MySQL 9.2.0 image
+    container_name: mysql_container
+    environment:
+      MYSQL_ROOT_PASSWORD: root_password # Set the root password
+      MYSQL_DATABASE: database # Create a database named 'my_database'
+      MYSQL_USER: user # Create a user named 'user'
+      MYSQL_PASSWORD: password # Set the password for 'user'      
+    volumes:
+      - mysql_data:/var/lib/mysql # Persist MySQL data in a named volume
+      - ./Scripts/:/docker-entrypoint-initdb.d # Persist MySQL data in a named volume
+    ports:
+      - "3306:3306" # Map port 3306 on the host to port 3306 in the container
+volumes:
+  mysql_data: # Define a named volume for MySQL data persistence
+    driver: local # Use the local driver for the volume

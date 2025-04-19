@@ -1,0 +1,5 @@
+--Executa o compose
+docker compose up
+
+--Remove todos os volumes
+docker compose down - v

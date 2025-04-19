@@ -1,0 +1,9 @@
+
+//Cria/Baixa imagem nginx 
+docker run -d nginx
+
+//Cria uma rede com o nome de rede1 do tipo bridge
+docker network create rede1 -d bridge
+
+//Cria/Baixa imagem nginx vinculando-a a uma rede 
+docker run --network rede1 -d nginx

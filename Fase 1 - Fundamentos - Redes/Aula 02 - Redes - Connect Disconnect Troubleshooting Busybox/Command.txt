@@ -1,0 +1,17 @@
+//Baixa a imagem do busybox
+docker run -it --rm busybox
+
+//Cria a rede
+docker network create rede1 -d bridge
+
+//Cria o container app1
+docker run -it --name app1 busybox
+
+//Cria o container app2
+docker run -it --name app1 busybox
+
+//Conecta o container app1 a rede rede1
+docker network connect rede1 app1
+
+//Deconeta o container da rede
+docker network disconnect rede1 app2
